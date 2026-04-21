@@ -1,4 +1,4 @@
-# miniguia-estudos-LeanSixSigma-notebooklm
+# Estudos-LeanSixSigma-notebooklm
 Estudo direto Sobre Melhoria Contínua
 
 # 1. Contexto e Objetivos
