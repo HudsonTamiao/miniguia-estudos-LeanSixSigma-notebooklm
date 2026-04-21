@@ -58,9 +58,3 @@ R-Square: O quanto você realmente entende o seu problema (ex: "80% do custo de 
 
 Gage R&R: Teste para saber se a medição de desgaste de pneus é consistente entre diferentes turnos de inspetores.
 
-# Prompts Reutilizáveis para Revisão
-"Resuma os critérios de escolha entre um teste Z e um teste t para amostras de manutenção de frota."
-
-"Crie um checklist de FMEA para uma falha crítica de superaquecimento em tratores série 8R."
-
-"Explique como interpretar um gráfico de resíduos de uma regressão de consumo de combustível."
